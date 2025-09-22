@@ -1,0 +1,8 @@
+# Visual Studio 
+.vs/ 
+*.suo 
+*.user 
+*.sln.docstates 
+# Binarios y archivos temporales 
+[Bb]in/ 
+[Oo]bj/ 
